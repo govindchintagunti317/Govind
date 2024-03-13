@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.heading{
+    color:#ffffff;
+    font-size: 50px;
+    font-family: "bree serif"
+}
+.background{
+    background-image: url("https://c1.wallpaperflare.com/path/404/292/966/laptop-notebook-macbook-pro-47ca367661a49cf46bcfe770adb77927.jpg");
+    background-size:cover;
+    height: 100vh;
+}
+.paragraph{
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "roboto";
+}
+.button{
+    color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: dodgerblue; 
+    width: 135px;
+    height: 40px;
+    font-size: 20px;
+}
+.card-design{
+    padding: 10px;
+    margin-right: 30px; 
+}
